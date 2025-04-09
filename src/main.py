@@ -1,4 +1,5 @@
 def greet():
-print("This line has bad indentation")  # ← bu satır hatalı olmalı
+    print("This is properly formatted code")
+
 
 greet()
