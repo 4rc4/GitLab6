@@ -1,4 +1,5 @@
 def greet():
-    print("This is bad indentation")  # ← artık doğru oldu
+    print("This is properly formatted code")
+
 
 greet()
